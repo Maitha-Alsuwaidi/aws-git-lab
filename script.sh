@@ -1,2 +1,1 @@
-#!/bin/bash
-exit 0
+<h1> From GitHub <h1>
